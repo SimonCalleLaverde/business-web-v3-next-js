@@ -1,4 +1,4 @@
-// TO DELETE FILE & API FOLDER
+// No Longer In Use (To Delete "api" Folder As Well)
 
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 
