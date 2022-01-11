@@ -1,3 +1,5 @@
+// WILL DITCH ALL THIS
+
 // our-domain.com/news/[news-articles]
 
 import { useRouter } from "next/router";

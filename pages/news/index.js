@@ -1,3 +1,5 @@
+// WILL DITCH ALL THIS
+
 // our-domain.com/news
 
 import Link from "next/link";

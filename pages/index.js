@@ -1,3 +1,5 @@
+// WILL DITCH ALL THIS
+
 // our-domain.com/
 
 export default function HomePage() {
